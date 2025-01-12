@@ -1,0 +1,19 @@
+{
+  "name": "nodedev",
+  "version": "1.0.0",
+  "description": "node version midudev MVC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverYR03/NODEJS-MIDU.git"
+  },
+  "author": "OliverYR03 - Midudev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OliverYR03/NODEJS-MIDU/issues"
+  },
+  "homepage": "https://github.com/OliverYR03/NODEJS-MIDU#readme"
+}
