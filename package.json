@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/OliverYR03/NODEJS-MIDU#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.2",
     "node": "^22.13.0"
   }
